@@ -2,27 +2,71 @@
 AI Research & Paper Review
 
 
-## CNN - Classification Model
-- 1998: LeNet – Gradient-based Learning Applied to Document Recognition
-- 2012: AlexNet – ImageNet Classification with Deep Convolutional Neural Network | NIPS
-- 2014: GooLeNet – Going Deeper with Convolutions | 
-- 2015: VggNet – Very Deep Convolutional Networks for Large-Scale Image Recognition | ICLR 2015
-- 2015: SppNet – Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
-- 2015: ResNet – Deep Residual Learning for Image Recognition
-  - 2016: ResNet 후속 - Identity Mapping in Deep Residual Networks
-- 2016: SqueezeNet - AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size
-- 2017: Xception – Xception: Deep Learning with Depthwise Separable Convolutions
-- 2017: MobileNet – MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Application
-  - 2019 : MobileNet V2-Inverted Residuals and Linear Bottlenecks
-  - 2019 : MobileNet V3-Searching for MobileNetV3
-- 2017: ShuffleNet – ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices
-  - 2018: ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design
-- 2018: DenseNet – Densely Connected Convolutional Networks
-- 2018: NasNet – Learning Transferable Architectures for Scalable Image Recognition
-- 2018: Bag of Tricks – Bag of Tricks for Image Classification with Convolutional Neural Networks
-- 2019: SeNet – Squeeze and Excitation Networks
-- 2020: EfficientNet-Rethinking Model Scaling for Convolutional Neural Networks
+## CNN 
 
+## Classification Paper
+- (1998) LeNet – Gradient-based Learning Applied to Document Recognition 
+- (2012) AlexNet – ImageNet Classification with Deep Convolutional Neural Network | NIPS | (21.01.18 o)
+- (2014) GooLeNet – Going Deeper with Convolutions | (21.01.19 o)
+- (2015) VggNet – Very Deep Convolutional Networks for Large-Scale Image Recognition | ICLR 2015 | (21.01.20 o)
+- (2015) SppNet – Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition | (21.01.22 o) 
+- (2015) ResNet – Deep Residual Learning for Image Recognition (21.01.24 o)
+  - (2016) ResNet 후속 - Identity Mapping in Deep Residual Networks (21.01.24 o)
+- (2016) SqueezeNet - AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size
+- (2017) Xception – Xception: Deep Learning with Depthwise Separable Convolutions
+- (2017) MobileNet – MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Application
+  - (2019) MobileNet V2-Inverted Residuals and Linear Bottlenecks
+  - (2019) MobileNet V3-Searching for MobileNetV3
+- (2017) ShuffleNet – ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices
+  - (2018) ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design
+- (2018) DenseNet – Densely Connected Convolutional Networks
+- (2018) NasNet – Learning Transferable Architectures for Scalable Image Recognition
+- (2018) Bag of Tricks – Bag of Tricks for Image Classification with Convolutional Neural Networks
+- (2019) SeNet – Squeeze and Excitation Networks
+- (2020) EfficientNet-Rethinking Model Scaling for Convolutional Neural Networks
 
-### 참고링크
-- https://junklee.tistory.com/111 // LeNet ~ EfficientNet
+## Object Detection
+- (2014) R-CNN - Rich feature hierarchies for accurate object detection and semantic segmentation | (21.01.06 o) 
+- (2015) Fast R-CNN  - Fast R-CNN | (21.01.07 o)
+- (2016) Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks | (21.01.09 o)
+- (2016) SSD - Single Shot MultiBox Detector | (21.01.13 o)
+- (2016) YOLO V1 - You Only Look Once-Unified, Real-Time Object Detection | (21.01.12 o)
+- (2016) YOLO V2, 9000 - YOLO9000:Better,Faster,Stronger | (21.01.16 o)
+- (2018) YOLO V3 - YOLOv3: An Incremental Improvement | (21.01.17 o)
+- (2018) Retina Net - Focal Loss for Dense Object Detection 
+- (2020) YOLO V4 Optimal Speed and Accuracy of Object Detection 
+
+## Segmentation
+- (2015) FCN - Fully Convolutional Networks for Semantic Segmentation | (20.12.30 o)
+- (2015) U-Net - U-Net:Convolutional Networks for Biomedical Image Segmentation | (20.12.30 o)
+- (2015) Conv_deconv - Learning Deconvolution Network for Semantic Segmentation | (20.12.30 o)
+- (2016) DeepLab V1 - Semantic Image Segmentation with deep convolutional nets and fully connected crfs | (20.12.31 o)
+- (2017) DeepLab V2 - DeepLab-Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs | (20.12.31 o)
+- (2017) DeepLab V3 - Rethinking Atrous Convolution for Semantic Image Segmentation | (21.01.01 o)
+- (2018) Mast R-CNN - Mask R-CNN | (21.01.02 o)
+- (2018) DeepLab V3+ - Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation | (20.01.03 o)
+
+## OCR (Optimcal Character Recognition)
+- (2016) TextBoxes-A Fast Text Detector with a Single Deep Neural Network
+- (2017) EAST-An Efficient and Accurate Scene Text Detector
+- (2018) CRNN - An end-to-end TextSpotter with Explicit Alignment and Attention | (21.01.10 o)
+- (2018) FOTS - Fast Oriented Text Spotting with a Unified Network
+- (2019) CRAFT - Character Region Awareness for Text Detection | (21.01.03 o)
+- (2019) What Is Wrong With Scene Text Recognition Model Comparisons Dataset and Model Analysis
+
+## XAI (Explaniable AI)
+- (2015) CAM - Learning Deep Features for Discriminative Localization
+- (2019) Grad_CAM - Visual Explanations from Deep Networks via Gradient-based Localization
+- (2020) Score_CAM - Score Weighted Visual Explanations for Convolutional Neural Networks
+
+## Knowledge Distillation
+- (2015) Distilling the knowledge in a Neural Network
+- (2019) Improved Knowledge Distillation via Teacher Assistant
+
+## Quantization
+- (2019) Post-Training 4-bit Quantization of convolutional networks for rapid deployment Paper (NeurIPS)
+- (2019) Post-Training 4-bit Quantization on Embedding
+- (2019) µLayer - Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization
+- (2020) Improving Post Training Neural Quantization
+- (2020) EasyQuant - Post-training Quantization via Scale Optimization
+- (2021) Post_Training weighted quantization of neural networks for language_models
