@@ -38,12 +38,12 @@ AI Research & Paper Review
 
 ## Segmentation
 - **(2015) FCN - Fully Convolutional Networks for Semantic Segmentation**
-- (2015) U-Net - U-Net:Convolutional Networks for Biomedical Image Segmentation
-- (2015) Conv_deconv - Learning Deconvolution Network for Semantic Segmentation
-- (2016) DeepLab V1 - Semantic Image Segmentation with deep convolutional nets and fully connected crfs
+- **(2015) U-Net - U-Net:Convolutional Networks for Biomedical Image Segmentation**
+- **(2015) Conv_deconv - Learning Deconvolution Network for Semantic Segmentation**
+- **(2016) DeepLab V1 - Semantic Image Segmentation with deep convolutional nets and fully connected crfs**
 - (2017) DeepLab V2 - DeepLab-Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
 - (2017) DeepLab V3 - Rethinking Atrous Convolution for Semantic Image Segmentation
-- (2018) Mast R-CNN - Mask R-CNN
+- **(2018) Mast R-CNN - Mask R-CNN**
 - (2018) DeepLab V3+ - Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation
 
 ## OCR (Optimcal Character Recognition)
