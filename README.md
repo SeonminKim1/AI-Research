@@ -37,7 +37,7 @@ AI Research & Paper Review
 - (2020) YOLO V4 Optimal Speed and Accuracy of Object Detection 
 
 ## Segmentation
-- (2015) FCN - Fully Convolutional Networks for Semantic Segmentation
+- **(2015) FCN - Fully Convolutional Networks for Semantic Segmentation**
 - (2015) U-Net - U-Net:Convolutional Networks for Biomedical Image Segmentation
 - (2015) Conv_deconv - Learning Deconvolution Network for Semantic Segmentation
 - (2016) DeepLab V1 - Semantic Image Segmentation with deep convolutional nets and fully connected crfs
