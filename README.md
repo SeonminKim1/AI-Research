@@ -88,6 +88,16 @@ AI Research & Paper Review
 
 <hr>
 
+## Action Recognition
+- **(2014) C3D - Learning Spatiotemporal Features with 3D Convolutional Networks**
+- (2016) LTC - Long-term Temporal Convolutionsfor Action Recognition
+- **(2017) 3D ResNet - Learning Spatio-Temporal Representation with Pseudo-3D Residual Networks**
+- **(2017) I3D - Quo Vadis, Action Recognition. A New Model and the Kinetics Dataset**
+- **(2018) SlowFast - SlowFast Networks for Video Recognition**
+- **(2019) R2Plus1D - Large-scale weakly-supervised pre-training for video action recognition**
+- (2020) LateTemporarl3DCNN - Late Temporal Modeling in 3D CNN Architectures with BERT for Action Recognition
+
+<hr>
 
 ## XAI (Explaniable AI)
 - (2015) CAM - Learning Deep Features for Discriminative Localization
