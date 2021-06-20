@@ -24,7 +24,7 @@ AI Research & Paper Review
 - **(2018) Bag of Tricks – Bag of Tricks for Image Classification with Convolutional Neural Networks**
 - **(2019) SeNet – Squeeze and Excitation Networks**
 - **(2020) EfficientNet-Rethinking Model Scaling for Convolutional Neural Networks**
-
+  - **(2021) EfficientNet v2 - Smaller Models and Faster Training
 <hr>
 
 ## Object Detection
@@ -69,9 +69,9 @@ AI Research & Paper Review
 
 
 ## GAN
-- (2014)_GAN - Generative Adversarial Nets
-- (2014)_CGAN - Conditional Generative Adversarial Nets
-- (2015)_DCGAN - Unsupervised Representation Learning with Deep Convolutional 
+- **(2014)_GAN - Generative Adversarial Nets**
+- **(2014)_CGAN - Conditional Generative Adversarial Nets**
+- **(2015)_DCGAN - Unsupervised Representation Learning with Deep Convolutional**
 - (2016)_f-GAN - Training Generative Neural Samplers using Variational Divergence Minimization
 - (2016)_InfoGAN - Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets
 - (2016)_LSGAN - Least Squares Generative Adversarial Networks
